@@ -4,7 +4,6 @@
 Testing collaborative research with GitHub and Git
 
 
-coffee break coming
 
 Liebenslang Grün Weiss
 
@@ -12,3 +11,5 @@ Liebenslang Grün Weiss
 
 [Nate Breznau](https://sites.google.com/site/nbreznau/)
 
+
+Short test. :)
